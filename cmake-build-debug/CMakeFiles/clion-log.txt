@@ -1,0 +1,7 @@
+"E:\Program Files(x86)\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Programme\Compiler\miniplc0-compiler
+-- Version: 5.3.1
+-- Build type: Debug
+-- CXX_STANDARD: 11
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Programme/Compiler/miniplc0-compiler/cmake-build-debug
